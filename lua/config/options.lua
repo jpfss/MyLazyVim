@@ -26,7 +26,8 @@ opt.guicursor =
   "n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkwait0-blinkoff0-blinkon0-Cursor/lCursor,sm:block-blinkwait0-blinkoff0-blinkon0"
 opt.list = true
 opt.listchars = { space = "·" }
-opt.shell = "fish"
+-- opt.shell = "fish"
+opt.shell = "zsh"
 -- opt.shellcmdflag = "-command"
 -- opt.shellquote = '"'
 -- opt.shellxquote = ""
